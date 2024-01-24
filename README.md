@@ -35,3 +35,6 @@ This project is licensed under the MIT License.
 - Clone the repository:
 
 git clone https://github.com/teddwill123/Time-Planner.git
+
+![Screenshot](./assets/images/Screenshot1.png)
+![Screenshot](./assets/images/Screenshot2.png)
